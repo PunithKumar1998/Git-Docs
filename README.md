@@ -1,3 +1,3 @@
 # git
 
-This is a dummy file that to check the git hub
+This file consists of the basic git commands.
